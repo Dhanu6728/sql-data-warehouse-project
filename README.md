@@ -108,7 +108,7 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
----
+--- ## 🌟 About Me
 Hi there! I'm Dhananjay Magre
 I am an Oracle SQL/PLSQL Developer with around 5 years of experience. I have experience in designing, developing, and maintaining database applications using Oracle SQL and PL/SQL.
 
